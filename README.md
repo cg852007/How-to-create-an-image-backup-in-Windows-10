@@ -42,7 +42,19 @@ Confirm your choices:  <br/>
 <img src="https://imgur.com/yOtGbkY.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
 <br />
 <br />
-It will create the system image, drink coffee:  <br/>
+It will create the system image, drink coffee. This could take 2+ hours:  <br/>
+<img src="https://imgur.com/8vBBdA7.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
+<br />
+<br />
+We will need a recovery drive when the time comes to reinstall:  <br/>
+<img src="https://imgur.com/QGafPzU.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
+<br />
+<br />
+Make sure the box is checked and select next:  <br/>
+<img src="https://imgur.com/2pxqKiB.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
+<br />
+<br />
+It will create the system image, drink coffee. This could take 2+ hours:  <br/>
 <img src="https://imgur.com/8vBBdA7.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
 </p>
 
