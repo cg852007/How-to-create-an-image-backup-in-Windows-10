@@ -26,7 +26,7 @@ Control Panel > System and Security: <br/>
 <img src="https://imgur.com/IYvGjmJ.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
 <br />
 <br />
-Control Panel > System and Security > Backup an dRestore (Windows 7): <br/>
+Control Panel > System and Security > Backup and Restore (Windows 7): <br/>
 <img src="https://imgur.com/L4NXMGm.png" height="80%" width="80%" alt=">How-to-create-an-image-backup-in-Windows-10"/>
 <br />
 <br />
